@@ -1,4 +1,4 @@
 print("hello world")
 print("hello world")
-print("hello remote")
+print("remote")
 print("hello world")
